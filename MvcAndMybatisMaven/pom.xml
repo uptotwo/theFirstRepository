@@ -16,7 +16,7 @@
     </dependency>
     
     
-    <!-- 添加sevlet支持 -->
+    <!-- 添加sevlet支r持 -->
     <dependency>
         <groupId>javax.servlet</groupId>
         <artifactId>javax.servlet-api</artifactId>
